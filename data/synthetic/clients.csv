@@ -1,0 +1,43 @@
+client_id,client_name,segment,base_monthly_revenue,onboard_month
+C001,Fictional Retail Client 1,retail,18931.88,2024-01
+C002,Fictional Retail Client 2,retail,17779.21,2024-01
+C003,Fictional Retail Client 3,retail,14295.57,2024-01
+C004,Fictional Retail Client 4,retail,16845.97,2024-01
+C005,Fictional Retail Client 5,retail,16824.82,2024-01
+C006,Fictional Retail Client 6,retail,16089.67,2024-01
+C007,Fictional Retail Client 7,retail,17071.87,2024-01
+C008,Fictional Retail Client 8,retail,22860.55,2024-01
+C009,Fictional Retail Client 9,retail,15510.97,2024-01
+C010,Fictional Retail Client 10,retail,27833.41,2024-01
+C011,Fictional Retail Client 11,retail,27218.98,2024-01
+C012,Fictional Retail Client 12,retail,18989.21,2024-01
+C013,Fictional Retail Client 13,retail,16106.03,2024-01
+C014,Fictional Retail Client 14,retail,20019.72,2024-01
+C015,Fictional Retail Client 15,retail,25937.79,2024-01
+C016,Fictional Retail Client 16,retail,22233.9,2024-01
+C017,Fictional Retail Client 17,retail,25103.01,2024-01
+C018,Fictional Retail Client 18,retail,19968.45,2024-01
+C019,Fictional Retail Client 19,retail,21862.14,2024-01
+C020,Fictional Retail Client 20,retail,15346.14,2024-01
+C021,Fictional Retail Client 21,retail,23789.48,2024-01
+C022,Fictional Retail Client 22,retail,13725.45,2024-01
+C023,Fictional Retail Client 23,retail,23031.68,2024-01
+C024,Fictional Retail Client 24,retail,26167.59,2024-01
+C025,Fictional Institutional Client 1,institutional,65427.26,2024-01
+C026,Fictional Institutional Client 2,institutional,113534.38,2024-01
+C027,Fictional Institutional Client 3,institutional,61735.8,2024-01
+C028,Fictional Institutional Client 4,institutional,124640.13,2024-01
+C029,Fictional Institutional Client 5,institutional,60678.2,2024-01
+C030,Fictional Institutional Client 6,institutional,145610.0,2024-01
+C031,Fictional Institutional Client 7,institutional,65956.44,2024-01
+C032,Fictional Institutional Client 8,institutional,147898.3,2024-01
+C033,Fictional Institutional Client 9,institutional,132138.2,2024-01
+C034,Fictional Institutional Client 10,institutional,111469.78,2024-01
+C035,Fictional Introducing Broker Client 1,introducing_broker,96022.87,2024-01
+C036,Fictional Introducing Broker Client 2,introducing_broker,96940.94,2024-01
+C037,Fictional Introducing Broker Client 3,introducing_broker,108032.99,2024-01
+C038,Fictional Introducing Broker Client 4,introducing_broker,57123.68,2024-01
+C039,Fictional Introducing Broker Client 5,introducing_broker,81870.58,2024-01
+C040,Fictional Introducing Broker Client 6,introducing_broker,45486.12,2024-01
+C041,Fictional Institutional Client Onboarded Sep 2025,institutional,145000.0,2025-09
+C042,Fictional Retail Client Offboarded Nov 2024,retail,12000.0,2024-01
